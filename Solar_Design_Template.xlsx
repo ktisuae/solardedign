@@ -1,0 +1,26 @@
+Load
+| Load Type    | Quantity | Power (W) | Total Power (W) |
+|--------------|----------|-----------|------------------|
+| Appliance 1  | 5        | 100       | 500              |
+| Appliance 2  | 10       | 150       | 1500             |
+
+Calculation
+| Description        | Value   |
+|--------------------|---------|
+| Total Load (W)    | 2000    |
+| Total Energy (Wh)  | 48000   |
+
+Panel Details
+| Panel Model | Power Rating (W) | Quantity | Total Power (W) |
+|-------------|------------------|----------|------------------|
+| Panel 1     | 300              | 8        | 2400             |
+
+Battery
+| Battery Type | Capacity (Ah) | Voltage (V) | Total Energy (Wh) |
+|--------------|----------------|--------------|--------------------|
+| Lead Acid    | 200            | 12           | 2400               |
+
+Inverter
+| Inverter Type | Capacity (W) | Efficiency (%) |
+|---------------|---------------|----------------|
+| Inverter 1    | 3000          | 90             |
